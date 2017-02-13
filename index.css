@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+
+h1{
+  color: #323232;
+  font: 1.875, 'PT Sans Narrow', sans-serif;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+h2{
+  color: #00897f;
+  font: 1.5, 'PT Sans Narrow', sans-serif;
+}
+
+h3{
+  color: #323232;
+  font: 1, 'PT Serif', serif;
+}
+
+p{
+  color: #323232;
+  font: .875, 'PT Serif', serif;
+}
+
+a{
+color: #f26522;
+  font: 1, 'PT Serif', 700;
+}
